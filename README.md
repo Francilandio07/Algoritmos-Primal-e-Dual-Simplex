@@ -1,1 +1,1 @@
-# Implementação dos Algoritmos Primal e Dual Simplex para aa disciplina de Programação Linear
+# Implementação dos Algoritmos Primal e Dual Simplex para a disciplina de Programação Linear
